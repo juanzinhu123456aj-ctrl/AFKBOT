@@ -4,7 +4,7 @@ function createBot() {
   const bot = mineflayer.createBot({
     host: 'VorKZenss.aternos.me',
     port: 51726,
-    username: 'AFKBOT',
+    username: 'VORKZENSBETTER',
     version: '1.20.1',
     auth: 'offline'
   })
